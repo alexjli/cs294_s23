@@ -1,6 +1,0 @@
-*.pyc
-*.pdb
-*.sh
-debug.py
-models/*
-data/*
